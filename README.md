@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dizsel74
-- 👀 I’m interested in became Fullstack Developer
-- 🌱 I’m currently learning PHP and MySQL
+- 👀 I’m interested in became Backend Developer
+- 🌱 Love PHP and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dizsel74@gmail.com
 
