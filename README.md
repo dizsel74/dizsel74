@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dizsel74
-- 👀 I’m interested un develop my FrontEnd skills
+- 👀 I’m interested in Web dev and apps dev
 - 🌱 Love CSS, PHP and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dizsel74@gmail.com or arturomendozarendon@gmail.com 
