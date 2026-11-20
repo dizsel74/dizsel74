@@ -26,3 +26,5 @@ I design accessible web and mobile products, and I can build them too. I studied
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
