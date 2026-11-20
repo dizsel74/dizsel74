@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arturo 👋</h1>
-<p align="center"><b>UX/UI Product Designer & front-end developer</b> · Xalapa, Mexico · Remote</p>
+<p align="center"><b>UX/UI Product Designer & front-end developer</b> · Mexico · Remote</p>
 
 <p align="center">
   <a href="https://iamuxui.dev"><img src="https://img.shields.io/badge/Portfolio-iamuxui.dev-1F3A5F?style=for-the-badge" alt="Portfolio"></a>
